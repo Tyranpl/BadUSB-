@@ -1,2 +1,2 @@
 # BadUSB-
-BadUSB tut and scripts
+BadUSB tutorialsand scripts
