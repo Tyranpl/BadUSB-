@@ -1,2 +1,2 @@
-# BadUSB-
+# BadUSB
 BadUSB tutorials and scripts
